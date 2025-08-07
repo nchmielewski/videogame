@@ -1,0 +1,48 @@
+Rough Videogame Design
+
+hello, here i will design my videogame
+
+it's a DnD style adventure game, roll die for outcomes
+completely text based, played in Command Prompt
+centered around survival and turn based combat
+
+adventure lands, collect loot, defeat foes
+
+there will be a number of cycles:
+sun/moon
+	- sun rise and set
+	- moon rise and set
+	- moon phases
+calendar year
+	- every irl second is a minute
+	- every irl minute is an hour
+weather
+	- rain, sun, snow, fog, thunder, wind
+	- clouds
+nature
+	- animal sleep cycles
+	- ambient sound
+health
+	- food and water
+	- injuries
+
+there will be a number of locations:
+forest of the talking trees
+forest of spiders
+forest of the undead
+
+
+COMBAT
+TODO
+
+ROLL
+TODO
+
+ADVENTURE
+TODO
+
+INVENTORY
+TODO
+
+there should be a core engine that other features read from
+clock based on seconds, count values over time (have caution for type overflow)
